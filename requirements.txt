@@ -1,0 +1,5 @@
+pyrocko
+jupyter_contrib_nbextensions
+pandas
+pyproj
+pillow
